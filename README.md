@@ -1,6 +1,6 @@
 # Sujets simples pour des présentations éclairs
 
-Votre mission consiste à choisir un sujet et d'en faire une petite vidéo de 5 à 10 minutes pour l'expliquer en utilisant `Flip Grid`. 
+Votre mission consiste à choisir un sujet et d'en faire une petite vidéo de 3 à 10 minutes (gros max) pour l'expliquer en utilisant `Flip Grid`. 
 
 ### Instructions
 
