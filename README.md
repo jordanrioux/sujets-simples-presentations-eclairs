@@ -26,6 +26,7 @@ Votre mission consiste à choisir un sujet et d'en faire une petite vidéo de 5 
 | Événements                                                       |          |
 | `Enumerators` et `yield`                                         |          |
 | `Attributes`                                                     |          |
+| `LINQ`                                                           |          |
 
 
 ### Sujets de votre choix
