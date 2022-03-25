@@ -20,7 +20,7 @@ Votre mission consiste à choisir un sujet et d'en faire une petite vidéo de 5 
 | `struct` vs. `class` (types valeur vs. types référence)          |          |
 | Tuples                                                           |          |
 | `lock` (contexte multithread)                                    |          |
-| Les modifications de paramètres de méthodes (`in`, `ref`, `out`) |          |
+| Les modificateurs de paramètres de méthodes (`in`, `ref`, `out`) |          |
 | `const` and `readonly`                                           |          |
 | Records                                                          |          |
 | Événements                                                       |          |
