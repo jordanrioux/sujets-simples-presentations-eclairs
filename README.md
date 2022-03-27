@@ -18,7 +18,7 @@ Votre mission consiste à choisir un sujet et d'en faire une petite vidéo de 3 
 | Exceptions, gestion des exceptions et exceptions `custom`        |          |
 | Directives du préprocesseur                                      |          |
 | `struct` vs. `class` (types valeur vs. types référence)          |          |
-| Tuples                                                           |          |
+| Tuples                                                           |Mathis|
 | `lock` (contexte multithread)                                    |          |
 | Les modificateurs de paramètres de méthodes (`in`, `ref`, `out`) |          |
 | `const` and `readonly`                                           |          |
