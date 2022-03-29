@@ -21,7 +21,7 @@ Votre mission consiste à choisir un sujet et d'en faire une petite vidéo de 3 
 | Tuples                                                           |Mathis|
 | `lock` (contexte multithread)                                    |          |
 | Les modificateurs de paramètres de méthodes (`in`, `ref`, `out`) |          |
-| `const` and `readonly`                                           |          |
+| `const` and `readonly`                                           |Jeremy    |
 | Records                                                          |          |
 | Événements                                                       |          |
 | `Enumerators` et `yield`                                         |          |
