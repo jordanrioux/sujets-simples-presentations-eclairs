@@ -25,7 +25,7 @@ Votre mission consiste à choisir un sujet et d'en faire une petite vidéo de 3 
 | Records                                                          |          |
 | Événements                                                       |          |
 | `Enumerators` et `yield`                                         |          |
-| `Attributes`                                                     |          |
+| `Attributes`                                                     |jeremy    |
 | `LINQ`                                                           |Cedrick   |
 
 
