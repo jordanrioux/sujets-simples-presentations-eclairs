@@ -20,7 +20,7 @@ Votre mission consiste à choisir un sujet et d'en faire une petite vidéo de 5 
 | `struct` vs. `class` (types valeur vs. types référence)          |          |
 | Tuples                                                           |          |
 | Les modificateurs de paramètres de méthodes (`in`, `ref`, `out`) |          |
-| `const` and `readonly`                                           |          |
+| `const` and `readonly`                                           |Xavier Morin|
 | Records                                                          |          |
 | Événements                                                       |          |
 | `Enumerators` et `yield`                                         |          |
