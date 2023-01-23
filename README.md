@@ -1,6 +1,6 @@
 # Sujets simples pour des présentations éclairs
 
-Votre mission consiste à choisir un sujet et d'en faire une petite vidéo de 3 à 10 minutes (gros max) pour l'expliquer en utilisant `Flip Grid`. 
+Votre mission consiste à choisir un sujet et d'en faire une petite vidéo de 5 à 10 minutes (gros max) pour l'expliquer en utilisant `Flip Grid`. 
 
 ### Instructions
 
@@ -18,15 +18,14 @@ Votre mission consiste à choisir un sujet et d'en faire une petite vidéo de 3 
 | Exceptions, gestion des exceptions et exceptions `custom`        |          |
 | Directives du préprocesseur                                      |          |
 | `struct` vs. `class` (types valeur vs. types référence)          |          |
-| Tuples                                                           |Mathis|
-| `lock` (contexte multithread)                                    |          |
+| Tuples                                                           |          |
 | Les modificateurs de paramètres de méthodes (`in`, `ref`, `out`) |          |
-| `const` and `readonly`                                           |Jeremy    |
+| `const` and `readonly`                                           |          |
 | Records                                                          |          |
 | Événements                                                       |          |
 | `Enumerators` et `yield`                                         |          |
-| `Attributes`                                                     |jeremy    |
-| `LINQ`                                                           |Cedrick   |
+| `Attributes`                                                     |          |
+| `LINQ`                                                           |          |
 
 
 ### Sujets de votre choix
