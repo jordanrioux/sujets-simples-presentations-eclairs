@@ -18,7 +18,7 @@ Votre mission consiste à choisir un sujet et d'en faire une petite vidéo de 5 
 | Exceptions, gestion des exceptions et exceptions `custom`        |          |
 | Directives du préprocesseur                                      |          |
 | `struct` vs. `class` (types valeur vs. types référence)          |          |
-| Tuples                                                           |          |
+| Tuples                                                           |Excellence Ekanza Ezokola|
 | Les modificateurs de paramètres de méthodes (`in`, `ref`, `out`) |          |
 | `const` and `readonly`                                           |Xavier Morin|
 | Records                                                          |          |
