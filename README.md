@@ -19,7 +19,7 @@ Votre mission consiste à choisir un sujet et d'en faire une petite vidéo de 5 
 | Directives du préprocesseur                                      |          |
 | `struct` vs. `class` (types valeur vs. types référence)          |          |
 | Tuples                                                           |Excellence Ekanza Ezokola|
-| Les modificateurs de paramètres de méthodes (`in`, `ref`, `out`) |          |
+| Les modificateurs de paramètres de méthodes (`in`, `ref`, `out`) |  Isabel  |
 | `const` and `readonly`                                           |Xavier Morin|
 | Records                                                          |          |
 | Événements                                                       |          |
